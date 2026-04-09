@@ -4,7 +4,7 @@
 O **Rede do Bem** é uma plataforma digital desenvolvida para a ONG **Turma do Bem**, com o objetivo de otimizar a gestão de atendimentos odontológicos gratuitos para jovens e mulheres em situação de vulnerabilidade. O sistema facilita a triagem de pacientes, a localização de dentistas voluntários e o acompanhamento dos tratamentos, garantindo eficiência e segurança de dados.
 
 ## Link do Repositório GitHub
-[https://github.com/felipecuesta06/rede-do-bem](https://github.com/felipecuesta06/rede-do-bem)
+[https://github.com/VitorGodoi12/Projeto-Sprint03.git](https://github.com/VitorGodoi12/Projeto-Sprint03.git)
 
 ## Integrantes do Grupo
 - **Felipe Cuesta Puerta de Oliveira** (RM: 567703) - Turma: 1TDSPX
